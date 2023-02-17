@@ -1,7 +1,21 @@
 h1 {
     font-size: 40px;
     font-family: 'Quicksand', sans-serif;
-    color: mediumorchid;
-    font-style: italic;
+    color: rgb(109, 36, 128);
+    font-style: bold;
 
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    color: mediumorchid;
+    font-style: bold;
+
+}
+
+p{
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: mediumorchid;
 }
