@@ -26,9 +26,13 @@ p{
     color: mediumorchid;
 }
 
-.button-links {
+.button-link {
     border-style: solid;
     border-color: crimson;
     background-color: cornsilk;
     border-width: 2px;
+    display:block;
+    text-align: center;
+    width: 150px;
+    margin-top: 20px;
 }
