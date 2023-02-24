@@ -7,7 +7,7 @@ body {
 h1 {
     font-size: 40px;
     font-family: 'Quicksand', sans-serif;
-    color: rgb(109, 36, 128);
+    color: mediumorchid;
     font-style: bold;
 
 }
@@ -24,4 +24,11 @@ p{
     font-size: 16px;
     font-family: 'Quicksand', sans-serif;
     color: mediumorchid;
+}
+
+.button-links {
+    border-style: solid;
+    border-color: crimson;
+    background-color: cornsilk;
+    border-width: 2px;
 }
