@@ -56,7 +56,7 @@ p{
 
 .top-banner {
     height: 240px;
-    max-width: 800px;
+    max-width: 100%;
     text-align: center;
     padding-top: 110px;
     background-color: cornflowerblue;
@@ -71,7 +71,7 @@ p{
 footer {
     background-color: grey;
     height: 300px;
-    max-width: 800px;
+    max-width: 00%;
     color:plum;
     padding: 10px 0;
 }
