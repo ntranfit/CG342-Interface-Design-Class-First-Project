@@ -30,9 +30,43 @@ p{
     border-style: solid;
     border-color: crimson;
     background-color: cornsilk;
+    color: black;
+    padding: 4px;
     border-width: 2px;
-    display:block;
+    border-radius: 10px;
+    display: block;
     text-align: center;
     width: 150px;
     margin-top: 20px;
+}
+
+.button-alert {
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: cyan;
+    color: black;
+    padding: 4px;
+    border-width: 2px;
+    border-radius: 10px;
+    display: block;
+    text-align: center;
+    width: 150px;
+    margin-top: 20px;
+}
+
+.top-banner {
+    height: 240px;
+    text-align: center;
+    padding-top: 110px;
+    background-color: cornflowerblue;
+}
+
+.main-content {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+footer {
+    background-color: black;
 }
