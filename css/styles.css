@@ -27,6 +27,18 @@ p{
     color: mediumorchid;
 }
 
+nav {
+    padding: 10px;
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-link li {
+    display:inline;
+}
+
 .button-link {
     border-style: solid;
     border-color: crimson;
@@ -74,5 +86,5 @@ footer {
     height: 300px;
     max-width: 100%;
     color:plum;
-    padding: 10px 0;
+    padding: 10px;
 }
