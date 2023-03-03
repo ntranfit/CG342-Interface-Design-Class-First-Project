@@ -32,7 +32,6 @@ p{
 
 nav {
     padding: 10px;
-    color: white;
 }
 
 .nav-links {
@@ -41,6 +40,7 @@ nav {
     padding: 0;
     width: 200px;
     text-align: center;
+    color: white;
 }
 
 .nav-links li {
