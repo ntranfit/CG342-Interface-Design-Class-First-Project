@@ -33,10 +33,23 @@ nav {
 
 .nav-links {
     list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 200px;
+    text-align: center;
 }
 
-.nav-link li {
+.nav-links li {
     display:inline;
+}
+
+#myfirstid {
+    
+}
+
+.nav-links li a {
+    padding-left: 10px;
+    padding-right: 5px;
 }
 
 .button-link {
