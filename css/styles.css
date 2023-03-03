@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     background-color: indigo;
     margin: 0px;
@@ -40,11 +43,7 @@ nav {
 }
 
 .nav-links li {
-    display:inline-block;
-}
-
-#bio {
-
+    display: inline-block;
 }
 
 .nav-links li a {
