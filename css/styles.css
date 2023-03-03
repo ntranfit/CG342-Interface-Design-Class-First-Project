@@ -40,11 +40,11 @@ nav {
 }
 
 .nav-links li {
-    display:inline;
+    display:inline-block;
 }
 
-#myfirstid {
-    
+#bio {
+
 }
 
 .nav-links li a {
