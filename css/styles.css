@@ -110,6 +110,11 @@ footer {
     background-color:blueviolet;
 }
 
+.article-image {
+    width: 300px;
+    margin: 0 auto;
+}
+
 /* Mobile styles */
 
 @media only screen and (max-width: 600px) {
