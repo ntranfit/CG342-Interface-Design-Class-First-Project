@@ -87,7 +87,6 @@ nav {
     height: 240px;
     text-align: center;
     max-width: 100%;
-    padding-top: 110px;
     background-color: cornflowerblue;
     background-image: url("https://i.pinimg.com/originals/9b/0b/b5/9b0bb5a800a102a5a3fafda7de853d94.jpg");
     background-size: cover;
@@ -105,5 +104,5 @@ footer {
     text-align: center;
     max-width: 100%;
     padding-top: 110px;
-    background-color: cornflowerblue;
+    background-color:blueviolet;
 }
