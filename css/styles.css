@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 body {
     background-color: white;
     margin: 0px;
@@ -86,7 +87,7 @@ nav {
 .top-banner {
     height: 240px;
     text-align: center;
-    padding-top: 110px;
+    padding-top: 120px;
     max-width: 100%;
     background-color:blueviolet;
     background-image: url("https://i.pinimg.com/originals/9b/0b/b5/9b0bb5a800a102a5a3fafda7de853d94.jpg");
@@ -106,4 +107,27 @@ footer {
     max-width: 100%;
     padding-top: 110px;
     background-color:blueviolet;
+}
+
+/* Mobile styles */
+
+@media only screen and (max-width: 600px) {
+    /* Mobile styles go here */
+
+    body {
+        background-color: black;
+    }
+
+    p {
+        font-size: 18px;
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
 }
